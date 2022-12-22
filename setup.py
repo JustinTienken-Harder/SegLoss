@@ -7,7 +7,7 @@ setup(
     author_email='justin@algrthm.com',
     packages=['losses_pytorch'],
     description='Losses for pytorch segmentation models',
-    long_description=open('README.txt').read(),
+    long_description=open('README.md').read(),
     install_requires=[
         "numpy",
         "opencv-python",
