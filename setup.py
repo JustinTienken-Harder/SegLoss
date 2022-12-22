@@ -15,6 +15,6 @@ setup(
         "dropblock",
         "torchvision",
         "opensimplex",
-        "pytorch"
+        "torch"
     ],
 )
